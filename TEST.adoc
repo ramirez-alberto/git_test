@@ -1,7 +1,0 @@
-= Test adoc
-Alberto R
-
-== Header 2
-
-This is a `sample` text to test the *workflow*.
-
