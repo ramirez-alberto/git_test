@@ -1,0 +1,5 @@
+# Testing dependencies
+pinocchio
+coverage
+flake8
+pytest
