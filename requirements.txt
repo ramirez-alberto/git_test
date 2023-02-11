@@ -1,5 +1,4 @@
 # Testing dependencies
-pinocchio
-coverage
-flake8
-pytest
+coverage==7.1.0
+flake8==6.0.0
+pytest==7.2.1
