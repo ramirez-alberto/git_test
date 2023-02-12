@@ -1,4 +1,4 @@
-""" Tests for triangle.py """
+""" Tests for triangle.py for a CI pipeline """
 import pytest
 from triangle import area_of_a_triangle
 
