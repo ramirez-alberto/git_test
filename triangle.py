@@ -16,4 +16,4 @@ def area_of_a_triangle(base: float, height: float) -> float:
     if height < 0:
         raise ValueError("Height must be a positive number")
 
-    return (base / 2) * height *90
+    return (base / 2) * height
