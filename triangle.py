@@ -1,6 +1,3 @@
-""" Triangle functions"""
-
-
 def area_of_a_triangle(base: float, height: float) -> float:
     """Calculates the area of a triangle"""
 
